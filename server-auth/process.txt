@@ -1,0 +1,31 @@
+# create server
+
+# create models, controllers, router
+
+# connect to db
+
+# handle signup route
+
+# ensure storing data in mongodb
+
+# bcrypt user.password
+
+# generate jwt token
+
+# handle signin route
+
+# use passport to auth
+
+  # create options
+
+  # create Strategy
+
+  # tell passport to use Strategy
+
+# execute passportService
+
+# add passportMiddleware to required routes
+
+/******************************************/
+  # remove config.js in production
+/*******************************************/
